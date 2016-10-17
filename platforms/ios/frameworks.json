@@ -1,0 +1,8 @@
+{
+    "libz.dylib": 1,
+    "libsqlite3.0.dylib": 1,
+    "CoreTelephony.framework": 1,
+    "SystemConfiguration.framework": 1,
+    "Security.framework": 1,
+    "libstdc++.6.dylib": 1
+}
